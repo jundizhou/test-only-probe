@@ -1,0 +1,3 @@
+/kindling/test/build/CMakeFiles/rebuild_cache.dir
+/kindling/test/build/CMakeFiles/edit_cache.dir
+/kindling/test/build/CMakeFiles/jundi.dir

@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-8/root/usr/bin/c++      CMakeFiles/jundi.dir/main.cpp.o  -o jundi -lkindling -lsinsp -lscap -ltbb 
